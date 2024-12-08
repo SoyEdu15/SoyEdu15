@@ -22,18 +22,9 @@ Soy un desarrollador de software apasionado por crear aplicaciones y aprender nu
 - **[University](https://github.com/eduard123/University)**: Este proyecto esata creado con Node.js es una API REST-FULL, donde podemos encontrar un eos optimo del CRUD 
 
 ## 💬 ¡Conversemos!
-- **Correo**: [eduard@example.com](mailto:eduard@example.com)
-- **WhatsApp**: [📲 +1234567890](https://wa.me/1234567890)
-- **GitHub**: [eduard123](https://github.com/eduard123)
-
-## 💼 Experiencia
-- **[Local de reparación de dispositivos](https://github.com/eduard123/local)**: Ofrezco servicios técnicos de reparación de dispositivos electrónicos.
-- **[Desarrollo web](https://github.com/eduard123/webdev)**: Creación de aplicaciones web utilizando tecnologías como **Node.js** y **PostgreSQL**.
-
-## 🔖 Certificaciones
-- **[Certificación en JavaScript](https://www.example.com)**: Curso avanzado de JavaScript.
-- **[Certificación en Node.js](https://www.example.com)**: Curso de desarrollo backend con Node.js.
-
+- **Correo**: [eduardmurillo3@gmail.com](mailto:eduardmurillo3@gmail.com)
+- **WhatsApp**: [📲 +57 3204732202](https://wa.me/573204732202)
+- **GitHub**: [SoyEdu15](https://github.com/SoyEdu15)
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
