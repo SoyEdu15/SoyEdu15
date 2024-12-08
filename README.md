@@ -17,8 +17,9 @@ Soy un desarrollador de software apasionado por crear aplicaciones y aprender nu
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=eduard123&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🌱 Mis proyectos
-- **[Proyecto 1](https://github.com/eduard123/proyecto1)**: Descripción breve del proyecto y las tecnologías que utilicé.
-- **[Proyecto 2](https://github.com/eduard123/proyecto2)**: Descripción breve del proyecto y las tecnologías que utilicé.
+- **[API-JWT](https://github.com/SoyEdu15/API-JWT)**: API base o modelo para una tienda virtual, esta en desarrollo, proximamente se integrara fron-end con React ya que por el momento solo se esta desarrollando el Backend.
+- **[FAKE-SOTORE](https://github.com/SoyEdu15/FAKE-SOTORE)**: API JWT es una aplicación basada en Node.js que implementa autenticación y autorización utilizando JSON Web Tokens (JWT). Este proyecto está diseñado para aprender y demostrar el uso de JWT en un entorno de desarrollo.
+- **[University](https://github.com/eduard123/University)**: Este proyecto esata creado con Node.js es una API REST-FULL, donde podemos encontrar un eos optimo del CRUD 
 
 ## 💬 ¡Conversemos!
 - **Correo**: [eduard@example.com](mailto:eduard@example.com)
